@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1063091594215",
+    "project_id": "bynry-cca95",
+    "storage_bucket": "bynry-cca95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063091594215:android:c90c9582e3166953239342",
+        "android_client_info": {
+          "package_name": "com.example.flutter_singing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063091594215-p8cjflphcvup4kib0kuodte3f2bb42s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFxmqSMf9MIULITzkPjudxX-Gs1MKyxYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063091594215-p8cjflphcvup4kib0kuodte3f2bb42s1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063091594215-2ej679uli7s993rg92j1puljl2kna3gf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterSinging"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
