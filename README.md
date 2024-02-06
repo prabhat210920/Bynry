@@ -3,6 +3,8 @@
 A new Flutter project.
 
 Please Download the apk file from the given link
+https://drive.google.com/file/d/1rLH6AGcXteS_KaWX0dJUv9hNOjMSFgP2/view?usp=sharing
+
 https://github.com/prabhat210920/Bynry/blob/master/app-release.apk
 
 ## Getting Started
